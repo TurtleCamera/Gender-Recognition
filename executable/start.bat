@@ -1,0 +1,1 @@
+java -Xmx1G -jar Gender_Recognition.jar
